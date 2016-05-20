@@ -145,7 +145,7 @@ void loop () {
 
 //data = "temperature=" + temp + "&humidity=" + hum;// data sent must be under this form //name1=value1&name2=value2.
 
-data = "lokesh";
+data = "name=lokesh";
 httppost();
 
 delay(4000);
